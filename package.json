@@ -1,7 +1,7 @@
 {
   "name": "RlBotz",
   "version": "1.0.0",
-  "description": "<p align=\"center\"> <img src=\"https://telegra.ph/file/6ab4daac226292a112540.jpg\" alt=\"RullBOT\" width=\"500\"/>",
+  "description": "p balap",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -39,7 +39,9 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:baileys@^6.0.8",
+	"@adiwajshing/baileys" : "npm:baileys-md@^5.0.5",
+    	"@ffmpeg-installer/ffmpeg": "^1.1.0",
+    	"@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^2.0.0",
         "@vitalets/google-translate-api": "^8.0.0",
         "awesome-phonenumber": "^2.68.0",
